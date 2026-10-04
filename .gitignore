@@ -1,0 +1,8 @@
+# Artefatos gerados em tempo de execução
+cotacao.txt
+*.db
+*.db-shm
+*.db-wal
+
+# Binários
+/bin/
